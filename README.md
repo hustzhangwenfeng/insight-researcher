@@ -35,7 +35,7 @@ $ pip install -r requirements.txt
 
 <br />
 
-> **第 3 步** - 配置环境标量：
+> **第 3 步** - 配置环境变量：
 
 使用 OpenAI 密钥和 Tavily API 密钥创建 .env 文件，将秘钥等相关配置写入：
 
