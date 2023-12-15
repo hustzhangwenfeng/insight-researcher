@@ -61,7 +61,7 @@ $ export TAVILY_API_KEY={Your Tavily API Key here}
 ```bash
 $ python main.py
 ```
-运行过程中的日志记录在 logs目录下，最终的报告在outputs目录下。
+每次运行都会用当前时间戳生成一个 task_id，运行过程中的日志记录在 logs 目录下，最终的报告在 outputs 目录下。
 <br />
 
 ## 🛡 免责声明
